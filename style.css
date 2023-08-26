@@ -11,8 +11,8 @@
     --fs-md: 14px;
     --fs-lg: 30px;
 
-    --fw-medium: 400;
-    --fw-bold: 700:
+    --fw-medium:400;
+    --fw-bold:700;
 }
 
 /*
@@ -90,6 +90,7 @@ hgroup p {
     font-size: 0.875rem;
     color: var(--clr-brightyellow);
     max-width: 15.625rem;
+    font-weight: var(--fw-bold);
 }
 
 .text {
