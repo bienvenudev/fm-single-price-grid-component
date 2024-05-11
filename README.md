@@ -30,7 +30,7 @@ Users should be able to:
 
 - Solution URL: https://www.frontendmentor.io/solutions/responsive-single-price-grid-card-using-vanilla-html-and-css-_7aE9aItZG
 
-- Live Site URL: https://jwben1.github.io/fm-single-price-grid-component/
+- Live Site URL: https://bienvenudev.github.io/fm-single-price-grid-component/
 
 ### Built with
 
